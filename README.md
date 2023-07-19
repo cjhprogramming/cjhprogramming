@@ -1,5 +1,5 @@
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/generate_badge?boj={cjhprogramming})](https://solved.ac/{cjhprogramming})
+프로필](http://mazassumnida.wtf/api/generate_badge?boj=cjhprogramming)](https://solved.ac/cjhprogramming)
 
 <!--
 **cjhprogramming/cjhprogramming** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
